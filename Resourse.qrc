@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Images/copy.png</file>
+        <file>Images/cut.png</file>
+        <file>Images/new.png</file>
+        <file>Images/Redo.png</file>
+        <file>Images/Undo.png</file>
+        <file>Images/open.png</file>
+        <file>Images/paste.png</file>
+        <file>Images/redo.png</file>
+        <file>Images/save as.png</file>
+        <file>Images/save.png</file>
+        <file>Images/undo.png</file>
+        <file>Images/icons8-about-64.png</file>
+        <file>Images/Copy.png</file>
+        <file>Images/Cut.png</file>
+        <file>Images/New.png</file>
+        <file>Images/Open.png</file>
+        <file>Images/Paste.png</file>
+        <file>Images/Save as.png</file>
+        <file>Images/Save.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/save as.png</file>
+        <file>Images/save.png</file>
+    </qresource>
+</RCC>
